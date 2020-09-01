@@ -1,0 +1,462 @@
+[
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_asconf.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_asconf.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_asconf.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_auth.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_auth.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_auth.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_bsd_addr.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_bsd_addr.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_bsd_addr.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_callout.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_callout.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_callout.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_cc_functions.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_cc_functions.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_cc_functions.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_crc32.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_crc32.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_crc32.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_indata.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_indata.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_indata.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_input.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_input.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_input.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_output.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_output.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_output.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_pcb.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_pcb.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_pcb.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_peeloff.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_peeloff.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_peeloff.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_sha1.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_sha1.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_sha1.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_ss_functions.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_ss_functions.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_ss_functions.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_sysctl.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_sysctl.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_sysctl.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_timer.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_timer.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_timer.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_userspace.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_userspace.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_userspace.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctp_usrreq.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_usrreq.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_usrreq.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet/sctputil.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctputil.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctputil.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/netinet6/sctp6_usrreq.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet6/sctp6_usrreq.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet6/sctp6_usrreq.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/user_environment.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_environment.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_environment.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/user_mbuf.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_mbuf.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_mbuf.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/user_recv_thread.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_recv_thread.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_recv_thread.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g   -o CMakeFiles/usrsctp-static.dir/user_socket.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_socket.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_socket.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_asconf.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_asconf.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_asconf.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_auth.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_auth.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_auth.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_bsd_addr.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_bsd_addr.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_bsd_addr.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_callout.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_callout.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_callout.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_cc_functions.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_cc_functions.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_cc_functions.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_crc32.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_crc32.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_crc32.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_indata.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_indata.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_indata.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_input.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_input.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_input.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_output.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_output.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_output.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_pcb.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_pcb.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_pcb.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_peeloff.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_peeloff.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_peeloff.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_sha1.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_sha1.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_sha1.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_ss_functions.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_ss_functions.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_ss_functions.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_sysctl.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_sysctl.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_sysctl.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_timer.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_timer.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_timer.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_userspace.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_userspace.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_userspace.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctp_usrreq.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_usrreq.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctp_usrreq.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet/sctputil.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctputil.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet/sctputil.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/netinet6/sctp6_usrreq.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet6/sctp6_usrreq.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/netinet6/sctp6_usrreq.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/user_environment.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_environment.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_environment.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/user_mbuf.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_mbuf.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_mbuf.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/user_recv_thread.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_recv_thread.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_recv_thread.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/usrsctplib",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -DSCTP_PROCESS_LEVEL_LOCKS -DSCTP_SIMPLE_ALLOCATOR -D_GNU_SOURCE -D__Userspace__ -D__Userspace_os_Linux -Dusrsctp_EXPORTS -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -Wno-address-of-packed-member -g -fPIC   -o CMakeFiles/usrsctp.dir/user_socket.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_socket.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib/user_socket.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/test_timer.dir/test_timer.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/test_timer.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/test_timer.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/test_timer.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/test_libmgmt.dir/test_libmgmt.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/test_libmgmt.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/test_libmgmt.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/test_libmgmt.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/tsctp_upcall.dir/tsctp_upcall.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/tsctp_upcall.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/tsctp_upcall.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/tsctp_upcall.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/tsctp.dir/tsctp.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/tsctp.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/tsctp.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/tsctp.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/rtcweb.dir/rtcweb.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/rtcweb.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/rtcweb.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/rtcweb.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/http_client.dir/http_client.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/http_client.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/http_client.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/http_client.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/ekr_peer.dir/ekr_peer.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/ekr_peer.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/ekr_peer.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/ekr_peer.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/http_client_upcall.dir/http_client_upcall.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/http_client_upcall.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/http_client_upcall.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/http_client_upcall.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/chargen_server_upcall.dir/chargen_server_upcall.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/chargen_server_upcall.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/chargen_server_upcall.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/chargen_server_upcall.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/ekr_loop_offload.dir/ekr_loop_offload.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/ekr_loop_offload.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/ekr_loop_offload.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/ekr_loop_offload.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/client_upcall.dir/client_upcall.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/client_upcall.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/client_upcall.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/client_upcall.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/ekr_server.dir/ekr_server.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/ekr_server.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/ekr_server.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/ekr_server.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/ekr_client.dir/ekr_client.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/ekr_client.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/ekr_client.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/ekr_client.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/daytime_server.dir/daytime_server.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/daytime_server.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/daytime_server.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/daytime_server.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/daytime_server_upcall.dir/daytime_server_upcall.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/daytime_server_upcall.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/daytime_server_upcall.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/daytime_server_upcall.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/ekr_loop.dir/ekr_loop.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/ekr_loop.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/ekr_loop.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/ekr_loop.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/client.dir/client.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/client.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/client.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/client.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/discard_server_upcall.dir/discard_server_upcall.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/discard_server_upcall.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/discard_server_upcall.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/discard_server_upcall.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/ekr_loop_upcall.dir/ekr_loop_upcall.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/ekr_loop_upcall.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/ekr_loop_upcall.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/ekr_loop_upcall.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/st_client.dir/st_client.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/st_client.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/st_client.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/st_client.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/echo_server.dir/echo_server.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/echo_server.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/echo_server.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/echo_server.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/discard_server.dir/discard_server.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/discard_server.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/discard_server.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/discard_server.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/echo_server_upcall.dir/echo_server_upcall.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/echo_server_upcall.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/echo_server_upcall.c"
+},
+{
+  "directory": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/build/programs",
+  "command": "/usr/bin/cc -DHAVE_LINUX_IF_ADDR_H -DHAVE_LINUX_RTNETLINK_H -DHAVE_NETINET_IP_ICMP_H -DHAVE_STDATOMIC_H -DHAVE_SYS_QUEUE_H -DINET -DINET6 -DSCTP_DEBUG -D_GNU_SOURCE -I/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/usrsctplib   -std=c99 -pedantic -Wall -Wextra -Wfloat-equal -Wshadow -Wpointer-arith -Wunreachable-code -Winit-self -Wno-unused-function -Wno-unused-parameter -Wno-unreachable-code -Wstrict-prototypes -g   -o CMakeFiles/echo_server_upcall.dir/programs_helper.c.o   -c /usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c",
+  "file": "/usr/local/google/home/winniexiao/chromium/src/third_party/usrsctp/usrsctplib/programs/programs_helper.c"
+}
+]

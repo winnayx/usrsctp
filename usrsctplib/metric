@@ -1,0 +1,1 @@
+grep -roh --include \*.rs unsafe . | wc -w; find . -name '*.rs' | xargs wc -l; find . -name '*.rs' | xargs wc -c

@@ -1,0 +1,355 @@
+Errors from 'rustc discard_server.rs'
+
+error[E0432]: unresolved import `libc`
+ --> discard_server.rs:1:5
+  |
+1 | use ::libc;
+  |     ^^^^^^ no `libc` in the root
+
+error[E0658]: extern types are experimental
+  --> discard_server.rs:17:5
+   |
+17 |     pub type socket;
+   |     ^^^^^^^^^^^^^^^^
+   |
+   = note: see issue #43467 <https://github.com/rust-lang/rust/issues/43467> for more information
+
+error[E0658]: declaration of a non-standard `#[main]` function may change over time, for now a top-level `fn main()` is required
+   --> discard_server.rs:565:1
+    |
+565 | / pub fn main() {
+566 | |     let mut args: Vec<*mut libc::c_char> = Vec::new();
+567 | |     for arg in ::std::env::args() {
+568 | |         args.push(::std::ffi::CString::new(arg).expect("Failed to convert argument int...
+...   |
+575 | |     }
+576 | | }
+    | |_^
+    |
+    = note: see issue #29634 <https://github.com/rust-lang/rust/issues/29634> for more information
+
+warning: type `size_t` should have an upper camel case name
+   --> discard_server.rs:104:10
+    |
+104 | pub type size_t = libc::c_ulong;
+    |          ^^^^^^ help: convert the identifier to upper camel case: `SizeT`
+    |
+    = note: `#[warn(non_camel_case_types)]` on by default
+
+warning: type `__uint8_t` should have an upper camel case name
+   --> discard_server.rs:105:10
+    |
+105 | pub type __uint8_t = libc::c_uchar;
+    |          ^^^^^^^^^ help: convert the identifier to upper camel case: `Uint8T`
+
+warning: type `__uint16_t` should have an upper camel case name
+   --> discard_server.rs:106:10
+    |
+106 | pub type __uint16_t = libc::c_ushort;
+    |          ^^^^^^^^^^ help: convert the identifier to upper camel case: `Uint16T`
+
+warning: type `__uint32_t` should have an upper camel case name
+   --> discard_server.rs:107:10
+    |
+107 | pub type __uint32_t = libc::c_uint;
+    |          ^^^^^^^^^^ help: convert the identifier to upper camel case: `Uint32T`
+
+warning: type `__ssize_t` should have an upper camel case name
+   --> discard_server.rs:108:10
+    |
+108 | pub type __ssize_t = libc::c_long;
+    |          ^^^^^^^^^ help: convert the identifier to upper camel case: `SsizeT`
+
+warning: type `__socklen_t` should have an upper camel case name
+   --> discard_server.rs:109:10
+    |
+109 | pub type __socklen_t = libc::c_uint;
+    |          ^^^^^^^^^^^ help: convert the identifier to upper camel case: `SocklenT`
+
+warning: type `ssize_t` should have an upper camel case name
+   --> discard_server.rs:110:10
+    |
+110 | pub type ssize_t = __ssize_t;
+    |          ^^^^^^^ help: convert the identifier to upper camel case: `SsizeT`
+
+warning: type `socklen_t` should have an upper camel case name
+   --> discard_server.rs:111:10
+    |
+111 | pub type socklen_t = __socklen_t;
+    |          ^^^^^^^^^ help: convert the identifier to upper camel case: `SocklenT`
+
+warning: type `__socket_type` should have an upper camel case name
+   --> discard_server.rs:112:10
+    |
+112 | pub type __socket_type = libc::c_uint;
+    |          ^^^^^^^^^^^^^ help: convert the identifier to upper camel case: `SocketType`
+
+warning: type `sa_family_t` should have an upper camel case name
+   --> discard_server.rs:122:10
+    |
+122 | pub type sa_family_t = libc::c_ushort;
+    |          ^^^^^^^^^^^ help: convert the identifier to upper camel case: `SaFamilyT`
+
+warning: type `uint32_t` should have an upper camel case name
+   --> discard_server.rs:168:10
+    |
+168 | pub type uint32_t = __uint32_t;
+    |          ^^^^^^^^ help: convert the identifier to upper camel case: `Uint32T`
+
+warning: type `uint16_t` should have an upper camel case name
+   --> discard_server.rs:181:10
+    |
+181 | pub type uint16_t = __uint16_t;
+    |          ^^^^^^^^ help: convert the identifier to upper camel case: `Uint16T`
+
+warning: type `uint8_t` should have an upper camel case name
+   --> discard_server.rs:182:10
+    |
+182 | pub type uint8_t = __uint8_t;
+    |          ^^^^^^^ help: convert the identifier to upper camel case: `Uint8T`
+
+warning: type `in_port_t` should have an upper camel case name
+   --> discard_server.rs:183:10
+    |
+183 | pub type in_port_t = uint16_t;
+    |          ^^^^^^^^^ help: convert the identifier to upper camel case: `InPortT`
+
+warning: type `in_addr_t` should have an upper camel case name
+   --> discard_server.rs:197:10
+    |
+197 | pub type in_addr_t = uint32_t;
+    |          ^^^^^^^^^ help: convert the identifier to upper camel case: `InAddrT`
+
+warning: type `C2RustUnnamed_1` should have an upper camel case name
+   --> discard_server.rs:198:10
+    |
+198 | pub type C2RustUnnamed_1 = libc::c_uint;
+    |          ^^^^^^^^^^^^^^^ help: convert the identifier to upper camel case: `C2rustUnnamed1`
+
+warning: type `sctp_assoc_t` should have an upper camel case name
+   --> discard_server.rs:225:10
+    |
+225 | pub type sctp_assoc_t = uint32_t;
+    |          ^^^^^^^^^^^^ help: convert the identifier to upper camel case: `SctpAssocT`
+
+error[E0740]: unions may not contain fields that need dropping
+   --> discard_server.rs:177:5
+    |
+177 |     pub __u6_addr8: [uint8_t; 16],
+    |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |
+note: `std::mem::ManuallyDrop` can be used to wrap the type
+   --> discard_server.rs:177:5
+    |
+177 |     pub __u6_addr8: [uint8_t; 16],
+    |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+error: aborting due to 4 previous errors; 17 warnings emitted
+
+Some errors have detailed explanations: E0432, E0658, E0740.
+For more information about an error, try `rustc --explain E0432`.
+
+
+Error from 'rustc client.rs'
+error[E0432]: unresolved import `libc`
+ --> client.rs:1:5
+  |
+1 | use ::libc;
+  |     ^^^^^^ no `libc` in the root
+
+error[E0658]: extern types are experimental
+ --> client.rs:3:5
+  |
+3 |     pub type _IO_wide_data;
+  |     ^^^^^^^^^^^^^^^^^^^^^^^
+  |
+  = note: see issue #43467 <https://github.com/rust-lang/rust/issues/43467> for more information
+
+error[E0658]: extern types are experimental
+ --> client.rs:4:5
+  |
+4 |     pub type _IO_codecvt;
+  |     ^^^^^^^^^^^^^^^^^^^^^
+  |
+  = note: see issue #43467 <https://github.com/rust-lang/rust/issues/43467> for more information
+
+error[E0658]: extern types are experimental
+ --> client.rs:5:5
+  |
+5 |     pub type _IO_marker;
+  |     ^^^^^^^^^^^^^^^^^^^^
+  |
+  = note: see issue #43467 <https://github.com/rust-lang/rust/issues/43467> for more information
+
+error[E0658]: extern types are experimental
+  --> client.rs:20:5
+   |
+20 |     pub type socket;
+   |     ^^^^^^^^^^^^^^^^
+   |
+   = note: see issue #43467 <https://github.com/rust-lang/rust/issues/43467> for more information
+
+error[E0658]: declaration of a non-standard `#[main]` function may change over time, for now a top-level `fn main()` is required
+    --> client.rs:1130:1
+     |
+1130 | / pub fn main() {
+1131 | |     let mut args: Vec<*mut libc::c_char> = Vec::new();
+1132 | |     for arg in ::std::env::args() {
+1133 | |         args.push(::std::ffi::CString::new(arg).expect("Failed to convert argument in...
+...    |
+1140 | |     }
+1141 | | }
+     | |_^
+     |
+     = note: see issue #29634 <https://github.com/rust-lang/rust/issues/29634> for more information
+
+warning: type `size_t` should have an upper camel case name
+   --> client.rs:136:10
+    |
+136 | pub type size_t = libc::c_ulong;
+    |          ^^^^^^ help: convert the identifier to upper camel case: `SizeT`
+    |
+    = note: `#[warn(non_camel_case_types)]` on by default
+
+warning: type `__uint8_t` should have an upper camel case name
+   --> client.rs:137:10
+    |
+137 | pub type __uint8_t = libc::c_uchar;
+    |          ^^^^^^^^^ help: convert the identifier to upper camel case: `Uint8T`
+
+warning: type `__uint16_t` should have an upper camel case name
+   --> client.rs:138:10
+    |
+138 | pub type __uint16_t = libc::c_ushort;
+    |          ^^^^^^^^^^ help: convert the identifier to upper camel case: `Uint16T`
+
+warning: type `__uint32_t` should have an upper camel case name
+   --> client.rs:139:10
+    |
+139 | pub type __uint32_t = libc::c_uint;
+    |          ^^^^^^^^^^ help: convert the identifier to upper camel case: `Uint32T`
+
+warning: type `__off_t` should have an upper camel case name
+   --> client.rs:140:10
+    |
+140 | pub type __off_t = libc::c_long;
+    |          ^^^^^^^ help: convert the identifier to upper camel case: `OffT`
+
+warning: type `__off64_t` should have an upper camel case name
+   --> client.rs:141:10
+    |
+141 | pub type __off64_t = libc::c_long;
+    |          ^^^^^^^^^ help: convert the identifier to upper camel case: `Off64T`
+
+warning: type `__ssize_t` should have an upper camel case name
+   --> client.rs:142:10
+    |
+142 | pub type __ssize_t = libc::c_long;
+    |          ^^^^^^^^^ help: convert the identifier to upper camel case: `SsizeT`
+
+warning: type `__caddr_t` should have an upper camel case name
+   --> client.rs:143:10
+    |
+143 | pub type __caddr_t = *mut libc::c_char;
+    |          ^^^^^^^^^ help: convert the identifier to upper camel case: `CaddrT`
+
+warning: type `__socklen_t` should have an upper camel case name
+   --> client.rs:144:10
+    |
+144 | pub type __socklen_t = libc::c_uint;
+    |          ^^^^^^^^^^^ help: convert the identifier to upper camel case: `SocklenT`
+
+warning: type `_IO_lock_t` should have an upper camel case name
+   --> client.rs:178:10
+    |
+178 | pub type _IO_lock_t = ();
+    |          ^^^^^^^^^^ help: convert the identifier to upper camel case: `IoLockT`
+
+warning: type `ssize_t` should have an upper camel case name
+   --> client.rs:180:10
+    |
+180 | pub type ssize_t = __ssize_t;
+    |          ^^^^^^^ help: convert the identifier to upper camel case: `SsizeT`
+
+warning: type `caddr_t` should have an upper camel case name
+   --> client.rs:181:10
+    |
+181 | pub type caddr_t = __caddr_t;
+    |          ^^^^^^^ help: convert the identifier to upper camel case: `CaddrT`
+
+warning: type `socklen_t` should have an upper camel case name
+   --> client.rs:182:10
+    |
+182 | pub type socklen_t = __socklen_t;
+    |          ^^^^^^^^^ help: convert the identifier to upper camel case: `SocklenT`
+
+warning: type `__socket_type` should have an upper camel case name
+   --> client.rs:183:10
+    |
+183 | pub type __socket_type = libc::c_uint;
+    |          ^^^^^^^^^^^^^ help: convert the identifier to upper camel case: `SocketType`
+
+warning: type `sa_family_t` should have an upper camel case name
+   --> client.rs:193:10
+    |
+193 | pub type sa_family_t = libc::c_ushort;
+    |          ^^^^^^^^^^^ help: convert the identifier to upper camel case: `SaFamilyT`
+
+warning: type `uint32_t` should have an upper camel case name
+   --> client.rs:220:10
+    |
+220 | pub type uint32_t = __uint32_t;
+    |          ^^^^^^^^ help: convert the identifier to upper camel case: `Uint32T`
+
+warning: type `uint16_t` should have an upper camel case name
+   --> client.rs:233:10
+    |
+233 | pub type uint16_t = __uint16_t;
+    |          ^^^^^^^^ help: convert the identifier to upper camel case: `Uint16T`
+
+warning: type `uint8_t` should have an upper camel case name
+   --> client.rs:234:10
+    |
+234 | pub type uint8_t = __uint8_t;
+    |          ^^^^^^^ help: convert the identifier to upper camel case: `Uint8T`
+
+warning: type `in_port_t` should have an upper camel case name
+   --> client.rs:235:10
+    |
+235 | pub type in_port_t = uint16_t;
+    |          ^^^^^^^^^ help: convert the identifier to upper camel case: `InPortT`
+
+warning: type `in_addr_t` should have an upper camel case name
+   --> client.rs:249:10
+    |
+249 | pub type in_addr_t = uint32_t;
+    |          ^^^^^^^^^ help: convert the identifier to upper camel case: `InAddrT`
+
+warning: type `C2RustUnnamed_1` should have an upper camel case name
+   --> client.rs:250:10
+    |
+250 | pub type C2RustUnnamed_1 = libc::c_uint;
+    |          ^^^^^^^^^^^^^^^ help: convert the identifier to upper camel case: `C2rustUnnamed1`
+
+warning: type `sctp_assoc_t` should have an upper camel case name
+   --> client.rs:277:10
+    |
+277 | pub type sctp_assoc_t = uint32_t;
+    |          ^^^^^^^^^^^^ help: convert the identifier to upper camel case: `SctpAssocT`
+
+error[E0740]: unions may not contain fields that need dropping
+   --> client.rs:229:5
+    |
+229 |     pub __u6_addr8: [uint8_t; 16],
+    |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    |
+note: `std::mem::ManuallyDrop` can be used to wrap the type
+   --> client.rs:229:5
+    |
+229 |     pub __u6_addr8: [uint8_t; 16],
+    |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+error: aborting due to 7 previous errors; 22 warnings emitted
+
+Some errors have detailed explanations: E0432, E0658, E0740.
+For more information about an error, try `rustc --explain E0432`.

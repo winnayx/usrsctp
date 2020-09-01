@@ -1,0 +1,3 @@
+read command;
+c2rust refactor --cargo -r inplace $command;
+cargo b;
